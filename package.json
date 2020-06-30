@@ -1,0 +1,19 @@
+{
+  "name": "amazon-drive-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kopz9999/amazon-drive-example.git"
+  },
+  "author": "Luis Canales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kopz9999/amazon-drive-example/issues"
+  },
+  "homepage": "https://github.com/kopz9999/amazon-drive-example#readme"
+}
